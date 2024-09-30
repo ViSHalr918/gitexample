@@ -1,0 +1,3 @@
+git congif --global user.name "username"        [to add your username]
+
+git congif --global user.email "gmail"        [to add your gmail]
