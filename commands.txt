@@ -1,3 +1,14 @@
 git congif --global user.name "username"        [to add your username]
 
 git congif --global user.email "gmail"        [to add your gmail]
+
+
+git init                                      [to initialize an empty git repository]
+
+
+git status                                    [to check untracked files]
+
+git add -A                                    [to add all untracked files to staging area]
+
+
+git commit -m "commit message"                 [to move staged files to local repository]
