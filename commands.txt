@@ -12,3 +12,14 @@ git add -A                                    [to add all untracked files to sta
 
 
 git commit -m "commit message"                 [to move staged files to local repository]
+
+git remote add remote_name remote_path        [to add remote repository]
+
+
+git push remote_name branch                   [push to remote repository]
+
+
+git branch                                    [to list all branches]
+
+
+git remote -v                                 [to list all remote repository]
